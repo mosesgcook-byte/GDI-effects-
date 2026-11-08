@@ -1,2 +1,6 @@
 If the py files you installed with gdi.exe not working, I can help
-open CMD not terminal then enter 'pip install pywin32'
+open CMD not terminal then enter 'pip install pywin32'.
+if your clicking on the sed file and nothing happens its not converted. heres how to convert it
+step one press win + R key then enter iexpress
+the in iexpress click open an existing self exraction directive file
+then create the the exe
