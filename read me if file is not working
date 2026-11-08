@@ -1,0 +1,2 @@
+If the py files you installed with gdi.exe not working, I can help
+open CMD not terminal then enter 'pip install pywin32'
